@@ -26,20 +26,20 @@
 
 # Nasted if_else----------------------------------
 
-age = int(input("enter your age :"))
-ticket = input("have you ticket :")
+# age = int(input("enter your age :"))
+# ticket = input("have you ticket :")
 
 
-if age >=18:
-      print ("you age grater than 18 :")
-      if ticket == "yes":
-        print("allow ,go to hall")
+# if age >=18:
+#       print ("you age grater than 18 :")
+#       if ticket == "yes":
+#         print("allow ,go to hall")
 
-      else:
-        print("sorry,you have no ticket:")    
+#       else:
+#         print("sorry,you have no ticket:")    
 
-else:
-    print("sorry, not allow ")
+# else:
+#     print("sorry, not allow ")
 
 
 

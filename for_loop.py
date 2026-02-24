@@ -24,10 +24,30 @@
 
 
 
-num = int(input("Enter a number: "))
+# num = int(input("Enter a number: "))
+# for i in range(1 , num+ 1):
+#  for j in range(i,num+1):
+#        print(j , end="")
+
+#  print()
 
 
-for i in range(1 , num+1):
- for j in range(1 , num+1):
-       print(i)
+# while loop --------------------------------------------------
+
+# count = 0 
+
+
+# while count < 10 :
+#     print (count)
+#     count+=1
+
+
+x = 10
+
+while x >0:
+      print(x)
+      x-=1
+
+
+
 

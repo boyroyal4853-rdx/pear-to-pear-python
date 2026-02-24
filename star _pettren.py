@@ -3,9 +3,9 @@
 # for i in range(1,x+1,1):
 #     print("*" *i)
 
-# x =int(input("enter you no:"))
-# for i in range(x,0,-1):
-#     print("*"*i)
+x =int(input("enter you no:"))
+for i in range(x,0,-1):
+    print("*"*i)
 
 
 # x =int(input("enter you no:")) 

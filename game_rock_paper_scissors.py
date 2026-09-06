@@ -54,6 +54,7 @@ def game():
 again="yes"
 while again=="yes" or again=="y":
     game()
+
     
     again = input("Play again? (yes/no): ")
     if again != "yes" and again!= "y":
